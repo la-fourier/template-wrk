@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "cargo" # See documentation for possible values
+  - package-ecosystem: "pyproject" # See documentation for possible values / cargo für Rust
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
