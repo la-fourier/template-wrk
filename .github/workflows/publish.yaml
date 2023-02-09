@@ -1,0 +1,11 @@
+name: Test for badge
+
+on: [commit, push]
+
+jobs:
+  auto-assign:
+        runs-on: ubuntu-latest
+        steps:
+            - name: 'Auto-assign issue'
+              run: |
+                ls
