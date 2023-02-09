@@ -1,4 +1,4 @@
-![example workflow](https://github.com/la-fourier/template/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/la-fourier/template/actions/workflows/publish.yml/badge.svg)
 
 
 
