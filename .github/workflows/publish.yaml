@@ -1,11 +1,16 @@
 name: Test for badge
 
-on: [commit, push]
+on: 
+  pull_request:
+    branches:
+    - main
+    - release/*
 
 jobs:
   auto-assign:
+        name: Test
         runs-on: ubuntu-latest
         steps:
-            - name: 'Auto-assign issue'
+            - name: Auto-assign issue
               run: |
                 ls
