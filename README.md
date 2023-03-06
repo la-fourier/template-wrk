@@ -6,7 +6,7 @@ A template with dev stuff for all purposes
 
 ## Set up jobs
 
-  [ ] developer stuff
-    [ ] write ci
-    [ ] write temp issue and pull requests
-    [ ] write
+[ ] developer stuff
+  - [ ] write ci
+  - [ ] write temp issue and pull requests
+  - [ ] write
