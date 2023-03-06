@@ -6,7 +6,8 @@ A template with dev stuff for all purposes
 
 ## Set up jobs
 
-[ ] developer stuff
-  - [ ] write ci
-  - [ ] write temp issue and pull requests
-  - [ ] write
+- [ ] developer stuff
+  - [ ] workflows: automatised testing, compiling and nightly delivering
+  - [ ] temp issue and pull requests
+- [ ] first release
+- [ ] pages
